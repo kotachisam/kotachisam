@@ -13,9 +13,8 @@
   - **[tui-journal-publisher](https://github.com/kotachisam/tui-journal-publisher)** - Notion sync sidecar; distinct binary so other providers can plug into the same boundary.
 
   ### Now
-  May 2026.
-  PhD application to LSE Philosophy, deadline 27th May. 
-  [unity.samue.lk](https://unity.samue.lk) is my research tooling. Learning Rust.
+  PhD application in progress to LSE Philosophy.
+  [unity.samue.lk](https://unity.samue.lk) is my research tooling. Going deeper on Rust idioms.
 
   ### Recently
 
