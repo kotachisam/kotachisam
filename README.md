@@ -1,11 +1,10 @@
-### Hi
+## Hi
+<img width="240" align="right" alt="0925447F-80CC-4213-8AEC-4C603611335F_1_201_a" src="https://github.com/user-attachments/assets/75f4465b-ebf7-4d19-a1eb-fa24de7cdd06" />
 
   My name is Sam, I am a poet,
   I wrote this note just to show it.
   
   [samue.lk](https://samue.lk) is where you'll find more — essays, frameworks, the longer story.
-  
-<img width="479" height="110" alt="Screenshot 2026-05-09 at 19 17 34" src="https://github.com/user-attachments/assets/9886d348-5217-4a5d-86e0-cabc4cbf45b1" />
 
 ---
   ### What I'm building
@@ -26,4 +25,6 @@
 
   Teaching tui-journal to remember itself — entries that point at other entries, paths that complete as you type, a streak counter that says *yoooo* at me when I show up.
 
+<img width="479" height="110" alt="Screenshot 2026-05-09 at 19 17 34" src="https://github.com/user-attachments/assets/9886d348-5217-4a5d-86e0-cabc4cbf45b1" />
+<br />
   Reading on how people coordinate when they don't agree on anything, and writing it up where it'll survive being argued with.
