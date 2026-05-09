@@ -10,17 +10,18 @@
 
   - **[unity-compass](https://github.com/kotachisam/unity-compass)** - philosophy research wiki and live theorising space, hosted at [unity.samue.lk](https://unity.samue.lk)
   - **[larder](https://github.com/kotachisam/larder)** - offline cache of LLM CLI transcripts. Searchable when the network isn't.
-  - **[tui-journal](https://github.com/kotachisam/tui-journal)** - terminal journal with cross-entry mentions, Notion sync, templates. Fork of [Ammar's tui-journal](https://github.com/AmmarAbouZor/tui-journal).
+  - **[silo](https://github.com/kotachisam/silo)** - rent-a-GPU CLI for vast.ai. Spin up vLLM, prompt it, save the logs, destroy the box.
+  - **[tui-journal](https://github.com/kotachisam/tui-journal)** - terminal journal forked from [Ammar's](https://github.com/AmmarAbouZor/tui-journal). Added cross-entry mentions, Notion sync, templates, streaks.
   - **[tui-journal-publisher](https://github.com/kotachisam/tui-journal-publisher)** - Notion sync sidecar; distinct binary so other providers can plug into the same boundary.
 
   ---
   ### Now
 
-  PhD application in progress to LSE Philosophy. [unity.samue.lk](https://unity.samue.lk) is my research tooling. Learning Rust.
+  PhD application to LSE Philosophy is in. [unity.samue.lk](https://unity.samue.lk) is the research scaffolding while I wait. Still learning Rust — still bad at it, slightly less bad each week.
 
 ---
-  ### Recently
+  ### Lately
 
-  - Shipped inline path completion + cursor-aware insertion in tui-journal's export flow
-  - Refactored the mention overlay into a generic `InlineCompleter` trait both the picker and path
-  completer share
+  Teaching tui-journal to remember itself — entries that point at other entries, paths that complete as you type, a streak counter that says *yoooo* at me when I show up.
+
+  Reading on how people coordinate when they don't agree on anything, and writing it up where it'll survive being argued with.
