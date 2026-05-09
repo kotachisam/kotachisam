@@ -4,6 +4,8 @@
   I wrote this note just to show it.
   
   [samue.lk](https://samue.lk) is where you'll find more — essays, frameworks, the longer story.
+  
+<img width="479" height="110" alt="Screenshot 2026-05-09 at 19 17 34" src="https://github.com/user-attachments/assets/9886d348-5217-4a5d-86e0-cabc4cbf45b1" />
 
 ---
   ### What I'm building
